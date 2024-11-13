@@ -1,3 +1,4 @@
+![logo](https://github.com/ShagunShaw/ShagunShaw/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shagun Shaw</h1>
 <h3 align="center">A passionate Software Engineer and an aspiring Data Scientist from India</h3>
 
