@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shagun Shaw</h1>
 <h3 align="center">An aspiring Full Stack Developer, transforming ideas into scalable, end-to-end web applications with modern frontend and powerful backend</h3>
 
-<img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/865742357ca7a0cc7cd0e36df40e6105259ab24ae7d02f5536a58cff81bbacb5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
+<img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagunshaw&label=Profile%20views&color=0e75b6&style=flat" alt="shagunshaw" /> </p>
 
